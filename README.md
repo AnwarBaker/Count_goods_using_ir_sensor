@@ -1,8 +1,12 @@
 "# Count_goods_using_ir_sensor" 
-you can run this code in pic18f4620 using bootloader and this code implement an ir_sensor with buzzer connected to a pic18f4620 that detict every move and turn on the buzzer and theres is a counter must be increment every move and you can see the result on lcd 16*2 that connected to the pic microcontroller in this picture i well explain thhe project :
+you can run this code in pic18f4620 using bootloader and this code implement an ir_sensor with buzzer
+connected to a pic18f4620 that detict every move and turn on the buzzer and theres is a counter must be increment every move,
+and you can see the result on lcd 16*2 that connected to the pic microcontroller in this picture i well explain thhe project :
 
 
 1-when sensor didnot  detict any thing :
+
+
 ![1](https://github.com/user-attachments/assets/cfe7443c-18b0-429b-ab1e-9e7200de1d19)
 
 2-when sensor detict a wall for example "look for  ir_sensor turn two lights that mean there is a impediment" :
